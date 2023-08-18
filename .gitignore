@@ -1,0 +1,4 @@
+volumes
+.vscode
+.pytest_cache
+venv
