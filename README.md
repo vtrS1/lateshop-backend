@@ -1,3 +1,5 @@
+Adicionar o arquivo .env no projeto e copiar env enviada no email.
+
 1.Para subir container docker:
 
 docker compose up
